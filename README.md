@@ -16,7 +16,7 @@ In this repository you will find the source for the Node JS and Express JS REST 
 
 You can start off by cloning [**this repository**](https://github.com/clokam13/nodejs-api-tutorial) using `git clone`. 
 
-The next step will be to create your Database and Table in MySQL. 
+The next step will be to create your Database and Collection in Mongo DB. 
 
 You can follow the steps [**here**](https://www.mongodb.com/docs/manual/administration/install-community/) to install Mongo DB Community.
 
